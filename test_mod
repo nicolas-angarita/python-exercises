@@ -1,0 +1,3 @@
+def is_vowel(x):
+   
+    return  x in ['a', 'e', 'i', 'o', 'u']
